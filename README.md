@@ -5,7 +5,7 @@
  
 I'm
 Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+As a designer/developer, I have always been intrigued by the overlap between design and coding, and I have had the opportunity to work with some very talented teams on a number of high-profile web projects. As a professional, I possess a wide range of skills that include back-end development using open source technologies (NodeJs), front-end development (React, Angular9, HTML5, CSS3, Javascript, Bootshrap, UX), database(MongoDB,Sql,Mysql)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/Rakeshprogrammer/count.svg)
