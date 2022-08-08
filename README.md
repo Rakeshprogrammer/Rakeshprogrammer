@@ -1,8 +1,7 @@
 ### Hi Developers 👋
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube--red)](https://www.youtube.com/)
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rakesh-yadav-a13032248/)](https://www.linkedin.com/in/rakesh-yadav-a13032248/) 
- 
+[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rakesh-yadav-a13032248/)](https://www.linkedin.com/in/rakesh-yadav-a13032248/)  
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Rakesh-yellow)](https://stackoverflow.com/users/19719273/rakesh-yadav)
 
 I'm
