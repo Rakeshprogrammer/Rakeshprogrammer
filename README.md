@@ -4,8 +4,9 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Rakesh-yellow)](https://stackoverflow.com/users/19719273/rakesh-yadav)
  
 I'm
-Full Stack Developer
-As a designer/developer, I have always been intrigued by the overlap between design and coding, and I have had the opportunity to work with some very talented teams on a number of high-profile web projects. As a professional, I possess a wide range of skills that include back-end development using open source technologies (NodeJs), front-end development (React, Angular9, HTML5, CSS3, Javascript, Bootshrap, UX), database(MongoDB,Sql,Mysql)
+Full Stack Developer.I'm glad to have the opportunity to meet you Thanks for taking the time to read this. Currently, I have completed my 3 years of undergraduate in computer science at Mumbai University. Searching for new opportunities. I'm a curious learner who is constantly involved in self-improvement and always ready to take up challenging tasks in order to test my skills and improve them further. My interest lies in Full Stack Web Development and Android Development. 
+Currently, I'm learning Full Stack Web Development at Edureka. As a professional, I possess a wide range of skills that include back-end development using open source technologies (NodeJs), front-end development (React, Angular9, HTML5, CSS3, Javascript, Bootstrap, UX), database (MongoDB, SQL, Mysql) 
+Apart from this, you'll find me doing graphic designing, honing my skills and coding.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/Rakeshprogrammer/count.svg)
