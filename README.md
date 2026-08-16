@@ -7,10 +7,10 @@
     You may also want to connect with me on LinkedIn and Instagram :))
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Rakesh+Yadav;Aspiring+Software+Engineer;Java+Developer" alt="Aspiring SDE"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=800000&width=435&lines=Hello%2C+it's+Rakesh+Yadav;Aspiring+Software+Engineer;Java+Developer" alt="Aspiring SDE"/>
 </a>
 
 <!--
@@ -57,7 +57,7 @@ I document my software engineering study progress, focusing on Data Structures, 
     </a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=120&section=footer" alt="footer"/>
 
 <!--
      Thanks for being my guest <3
