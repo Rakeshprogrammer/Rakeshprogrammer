@@ -7,10 +7,10 @@
     You may also want to connect with me on LinkedIn and Instagram :))
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=header" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=FFD700&width=435&lines=Hello%2C+it's+Rakesh+Yadav;Aspiring+Software+Engineer;Java+Developer" alt="Aspiring SDE"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=FF8C00&width=435&lines=Hello%2C+it's+Rakesh+Yadav;Aspiring+Software+Engineer;Java+Developer" alt="Aspiring SDE"/>
 </a>
 
 <!--
@@ -47,7 +47,7 @@
   </a>
 </div>
 
-I document my software engineering study progress, building in public from 0 to SDE1. I focus on Data Structures, Algorithms, and Object-Oriented Programming in Java. You can follow my daily coding journey, check out my LeetCode progress, and see my custom AI digital art creations over on my Instagram!
+I document my software engineering study progress, building in public from 0 to SDE1. I focus on Data Structures, Algorithms, and Object-Oriented Programming in Java. You can follow my daily coding journey, check out my DSA progress, and see my videos of progress over on my Instagram!
 
 <!--
      Fast links to my socials!
@@ -63,7 +63,16 @@ I document my software engineering study progress, building in public from 0 to 
     </a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer" alt="footer"/>
+<!--
+     Oh, hello there, recruiters!
+-->
+
+### Looking to hire?
+> [!IMPORTANT]  
+> I am actively seeking Software Development Engineer (SDE) roles and internships!
+> <a href="https://drive.google.com/file/d/1y7h9uWBHTfEvQJRo3gLxzxw9vjznegdm/view?usp=drive_link" target="_blank">**📄 View & Download My Resume**</a>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=120&section=footer" alt="footer"/>
 
 <!--
      Thanks for being my guest <3
