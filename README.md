@@ -70,7 +70,7 @@ I document my software engineering study progress, building in public from 0 to 
 ### Looking to hire?
 > [!IMPORTANT]  
 > I am actively seeking Software Development Engineer (SDE) roles and internships!
-> <a href="https://drive.google.com/file/d/1y7h9uWBHTfEvQJRo3gLxzxw9vjznegdm/view?usp=drive_link" target="_blank">**📄 View & Download My Resume**</a>
+> <a href=""_blank">**📄 View & Download My Resume**</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=120&section=footer" alt="footer"/>
 
