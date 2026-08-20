@@ -24,7 +24,7 @@
 I document my software engineering study progress, building in public from 0 to SDE1. I focus on Data Structures, Algorithms, and Object-Oriented Programming in Java. You can follow my daily coding journey, check out my LeetCode progress, and see my custom AI digital art creations over on my Instagram!
 
 ### 🤝 Connect with me!
-<a href="https://www.linkedin.com/in/rakeshprogrammer/" target="_blank">
+<a href="[https://www.linkedin.com/in/onlyrakeshprogrammer/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/Rakeshprogrammer" target="_blank">
